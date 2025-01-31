@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Meena Gandham! 🚀
+# 👋 Hi, I'm Meenalochani Gandham! 🚀
 
 ## 🎯 Data Engineer | Data Analyst | Cloud & Big Data Enthusiast
 
