@@ -54,7 +54,7 @@ I enjoy working on **real-world data challenges** and optimizing workflows using
 ## 📫 **Connect with Me**
 📌 **GitHub:** [MeenaGandham](https://github.com/MeenaGandham)  
 📌 **LinkedIn:** [linkedin.com/in/meenalochani](https://www.linkedin.com/in/meenalochanigandham/) 
-📌 **Email:** [your.email@example.com](meenalochanigandham@gmail.com)
+📌 **Email:** [meenalochanigandham@gmail.com]
 
 ---
 
