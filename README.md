@@ -3,7 +3,7 @@
 ## 🎯 Data Engineer | Data Analyst | Cloud & Big Data Enthusiast
 
 ### 📌 About Me
-I am a **Master’s student in Computer Science** at the **University of Central Florida (UCF)** and hold a **B.Tech in Computer Science** from **Vellore Institute of Technology (VIT), India**. I am passionate about **data engineering, big data analytics and cloud computing**, with a focus on building scalable, efficient data pipelines.
+I am a **Computer Science Graduate** at the **University of Central Florida (UCF)** and hold a **B.Tech in Computer Science** from **Vellore Institute of Technology (VIT), India**. I am passionate about **data engineering, big data analytics and cloud computing**, with a focus on building scalable, efficient data pipelines.
 
 I am an **AWS Certified Data Engineer Associate** and hold an **IBM Certification**, showcasing my expertise in **data engineering, cloud data warehousing, and big data processing**.  
 
