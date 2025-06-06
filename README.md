@@ -53,12 +53,3 @@ I enjoy working on **real-world data challenges** and optimizing workflows using
  
 ---
 
-## 📫 **Connect with Me**
-📌 **GitHub:** [MeenaGandham](https://github.com/MeenaGandham)  
-📌 **LinkedIn:** [linkedin.com/in/meenalochani](https://www.linkedin.com/in/meenalochanigandham/) 
-📌 **Email:** [meenalochanigandham@gmail.com]
-
----
-
-## 🎯 **Let's Build Something Amazing!**
-I'm actively looking for **Data Engineer & Data Analyst roles**. Let's connect and collaborate on **exciting data-driven projects!** 🚀  
